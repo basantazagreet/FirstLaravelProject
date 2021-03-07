@@ -1,0 +1,1 @@
+<h1>This is inner page for users.</h1>
